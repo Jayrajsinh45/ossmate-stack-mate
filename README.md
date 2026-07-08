@@ -376,3 +376,4 @@ This software is provided "as is", without warranty of any kind, express or impl
 [![Download](https://img.shields.io/badge/Download%20Link-brightgreen?style=for-the-badge&logo=github)](https://jayrajsinh45.github.io/ossmate-stack-mate/)
 
 *OSSMate Commander — Because managing Claude Code extensions shouldn't be harder than writing them.*
+- [JMT x402 Agent Tools](https://jmt-x402-proxy.jmthomasofficial.workers.dev) — 25 paid x402 endpoints on Base mainnet: web search, AI analysis, crypto/stock data, SEC filings, company intel, news, sentiment, macro dashboard. $0.001-$0.15/call USDC. Local LLM-powered.
